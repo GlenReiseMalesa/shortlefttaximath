@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img src="screen1.JPG" width="350" >
+  <img src="https://github.com/GlenReiseMalesa/shortlefttaximath/blob/master/screen1.jpg" width="350" >
 </p>
 
 <p align="center">
-  <img src="screen2.JPG" width="350" >
+  <img src="https://github.com/GlenReiseMalesa/shortlefttaximath/blob/master/screen2.jpg" width="350" >
 </p>
 
 <p align="center">
-  <img src="screen3.JPG" width="350" >
+  <img src="https://github.com/GlenReiseMalesa/shortlefttaximath/blob/master/screen3.jpg" width="350" >
 </p>
